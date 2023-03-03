@@ -4,4 +4,6 @@
     <string name="btn_white">White</string>
     <string name="action_search">Buscar</string>
     <string name="action_setting">Configuración</string>
+    <string name="btn_snackbar">Show Snackbar</string>
+    <string name="undo_string">Undo</string>
 </resources>
